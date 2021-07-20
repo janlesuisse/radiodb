@@ -178,14 +178,14 @@
     },
     {
       "id": "DK2"
-      "name" : "Retro-Radio"
-      "country" : "Danmark"
-      "description" : "Vi er Deres Retro-Radio"
-      "genre" : "Pop"
-      "frequency" : ""
-      "mp3Stream" : "http://streammp3.retro-radio.dk/retro-mp3"
-      "aacStream" : "http://stream128.retro-radio.dk/retro"
-      "imageURL" : "downloaded"
+      "name": "Retro-Radio"
+      "country": "Danmark"
+      "description": "Vi er Deres Retro-Radio"
+      "genre": "Pop"
+      "frequency": ""
+      "mp3Stream": "http://streammp3.retro-radio.dk/retro-mp3"
+      "aacStream": "http://stream128.retro-radio.dk/retro"
+      "imageURL": "downloaded"
     }
   ]
 }
